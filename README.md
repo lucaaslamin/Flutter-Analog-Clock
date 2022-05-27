@@ -1,5 +1,5 @@
-# - Relógio Analógico Flutter
+#  Flutter Analog Clock
 
-Demo:
+# Demo:
 
 ![](FlutterClockExample.gif)
